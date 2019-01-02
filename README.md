@@ -1,5 +1,5 @@
 #TelegramBotX
-This created by lib https://github.com/eternnoir/pyTelegramBotAPI
+This created by lib [pyTelegramBotApi](https://github.com/eternnoir/pyTelegramBotAPI)
 
 supported python version 3.x
 
@@ -16,4 +16,5 @@ Easy to use!
 it will update soon
 
 [My Telegram](t.me/alnyz)
+
 main group: https://t.me/joinchat/C_nKEj84FIY6-usP8zddfQ
