@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-TOKEN = "724723234:AAGXh0f2DtqjaIZgXp70NZ-XZTOo5icl27c"
-ADMIN = 643923623
+TOKEN = "YOUR_TOKEN_BOT"
+ADMIN = 123456789 #add some sudo user class <Int>
 
 enabled_plugins = [
 "admins",
